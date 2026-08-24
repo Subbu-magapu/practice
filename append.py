@@ -2,6 +2,6 @@
 
 fruit = ["apple", "banana", "cherry","guava"]
 
-fruit.append("Orange")
+fruit.append("pineapple")
 
 print(fruit)
